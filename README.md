@@ -98,7 +98,3 @@ It is recommended to use [VSCode](https://code.visualstudio.com/) with our offic
 [rpv-badge]: https://img.shields.io/npm/v/rollup-plugin-vue/next.svg
 [rpv-npm]: https://www.npmjs.com/package/rollup-plugin-vue/v/next
 [rpv-code]: https://github.com/vuejs/rollup-plugin-vue/tree/next
-
-test
-
-xxx
